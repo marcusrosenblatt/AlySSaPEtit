@@ -1,4 +1,4 @@
-# ODESS version 1.0
+# AlySSaPEtit version 1.0
 # Use with python 3.x
 
 import numpy
