@@ -1,0 +1,8 @@
+Description,Rate,A,B,AB
+,k0,1,,
+,k4,,1,
+Reaktion11,k1*A*B,-1,-1,1
+,k2*AB,1,1,-1
+,k3*AB,,,-1
+,k5*B,,-1,
+,k6*A,-1,,

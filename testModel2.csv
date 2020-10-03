@@ -1,0 +1,5 @@
+Description,Rate,Met,Met2p
+Met production,MetProd,1,
+Met dimerization,MetDimer*Met**2,-2,1
+Met2p dissociation,MetDissoc*Met2p,2,-1
+Met2p degradation,MetDegrad*Met2p,,-1

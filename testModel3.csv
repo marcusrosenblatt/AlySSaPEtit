@@ -1,0 +1,7 @@
+Description,Rate,Met,Met2p,Met2HGF2
+Met production,MetProd,1,,
+Met degradation,MetDegrad*Met,-1,,
+Met dimerization,MetDimer*Met*Met,-2,1,
+Met2p dissociation,MetDissoc*Met2p,2,-1,
+Met complex formation,MetHGFCF*Met*Met*HGF*HGF,-2,,1
+Met2HGFComplex degradation,Met2HGF2ComplexDegrad*Met2HGF2,,,-1
